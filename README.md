@@ -10,5 +10,5 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add volllly https://github.com/volllly/scoop-bucket
-scoop install volllly/scoop-bucket
+scoop install volllly/<manifestname>
 ```
