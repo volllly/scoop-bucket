@@ -14,7 +14,7 @@
             "hash": "c029189534d7dfbb4797c80db35f23e288d58afc03a2e4ad14a9d39ee6fa6725"
         }
     },
-    "bin": "rotz",
+    "bin": "rotz.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
