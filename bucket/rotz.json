@@ -1,7 +1,7 @@
 {
     "version": "0.9.5",
     "description": "Fully cross platform dotfile manager and dev environment bootstrapper written in Rust",
-    "homepage": "https://volllly.github.io/rotz",
+    "homepage": "https://github.com/volllly/rotz",
     "license": "MIT",
     "notes": "",
     "architecture": {
